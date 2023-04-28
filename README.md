@@ -21,7 +21,7 @@ REALISATION DU SITE
 
 Framework utilisé: Materialize css J'utilise pour ce site : Materialize Pour l'intégré rien de plus simple, il suffit de rajouter cette ligne d'intégration dans le HEAD :
 
-<?php include "phpimports/styleImports.php"; ?>
+Ligne de commande = <?php include "phpimports/styleImports.php"; ?>
 C'est dans ce StyleImports qu'on retrouve la redirection sur tous les fichiers css de notre site, permettant d'augmenter l'efficacité et la simplicité.
 
 Materialize permet une simplification du css, en automatisant cette tache, en accomplissant également la responsivité
