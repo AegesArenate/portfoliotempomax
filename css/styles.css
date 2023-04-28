@@ -1,0 +1,41 @@
+/*Google Fonts*/
+.josefin {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.play {
+    font-family: 'Play', sans-serif;
+}
+
+.saira {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.tinos {
+    font-family: 'Tinos', serif;
+}
+
+.lobster {
+    font-family: 'Lobster Two', cursive;
+}
+
+/*CSS perso*/
+
+.iconsfo i {
+    font-size: 32px!important;
+}
+
+.foo {
+    padding: 0;
+}
+
+.imgw {
+    width: 100%;
+}
+
+.bor {
+    border-style: solid;
+    border-radius: 8px;
+    border-color: #7b1fa2;
+    border-width: 5px;
+}
