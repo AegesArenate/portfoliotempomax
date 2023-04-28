@@ -5,7 +5,7 @@ Doc technique
 
 SERVER
 
-Installation debian server : vers. 11.6.0 https://lecrabeinfo.net/telecharger/debian-11-64-bits : / type : iso Virtualiseur : Virtual box 7.0 Settings : username: avg38; mdp : *demander; Hostname : ServerUbuntu Domain.name : myguest.virtualbox.org réseau: enp0s3/ DHCPv4 10.0.2.15/24 server openSSH : Oui; installation supplémentaire : non
+Installation debian server : vers. 11.6.0 https://lecrabeinfo.net/telecharger/debian-11-64-bits : / type : iso Virtualiseur : Virtual box 7.0 Settings : username: AegesArenate; mdp : *demander; Hostname : ServerUbuntu Domain.name : myguest.virtualbox.org réseau: enp0s3/ DHCPv4 10.0.2.15/24 server openSSH : Oui; installation supplémentaire : non
 
 SERVER WEB
 
