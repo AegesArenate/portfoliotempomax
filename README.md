@@ -19,12 +19,13 @@ sudo mkdir /var/www/html/monsite sudo chown -R www-data:www-data /var/www/html/m
 
 REALISATION DU SITE
 
-Framework utilisé: Tailwind css J'utilise pour ce site : Tailwind Pour l'intégré rien de plus simple, il suffit de rajouter cette ligne d'intégration dans le HEAD :
+Framework utilisé: Materialize css J'utilise pour ce site : Materialize Pour l'intégré rien de plus simple, il suffit de rajouter cette ligne d'intégration dans le HEAD :
 
-<script src="https://cdn.tailwindcss.com"></script>
-Si cela ne suffit pas il faut télécharger node.JS, les packages JS pour tailwind, qui permettra de lancer une commande (: npx tailwindcss -i ./CSS/style.css -o ./dist/style.css --watch) et bien entendu dans ce cas précis, créer les deux fichier style.css, l'un dans un dossier "css", et l'autre dans un dossier "dist", cela permet que tailwind inscrit automatiquement dans le fichier dist/style.css tout le css demander dans les class html
 
-Tailwind permet une simplification du CSS, en automatisant cette tache, en accomplissant également la responsivité
+  <?php include "phpimports/styleImports.php"; ?>
+C'est dans ce StyleImports qu'on retrouve la redirection sur tous les fichiers css de notre site, permettant d'augmenter l'efficacité et la simplicité.
+
+Materialize permet une simplification du css, en automatisant cette tache, en accomplissant également la responsivité
 
 WEB PHP
 
